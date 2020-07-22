@@ -11,7 +11,7 @@ para assistir essa aula TOP :star: :star: :star: :star: :star:
 
 Para executar basta rodar `yarn` para installar as dependências e depois `yarn start` para executar e ser feliz :stuck_out_tongue_winking_eye:.
 
-### Quer ver como ficou sem executar ? [Vem comigo]()
+### Quer ver como ficou sem executar ? [Vem comigo](https://twitter-clone-responsive.netlify.app/)
 
 ### Vale a pena conferir
 
